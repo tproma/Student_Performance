@@ -14,7 +14,6 @@ The data consists of 8 column and 1000 rows.
 - Docker
 
 # Infrastructure Required.
-- AWS S3
 - AWS EC2
 - AWS ECR
 - Git Actions
